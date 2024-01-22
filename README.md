@@ -9,4 +9,6 @@ Some leftover wood, 4 [tennis balls](https://www.amazon.com/gp/product/B001FZCVT
 
 <img width="538" alt="image" src="https://github.com/jastill/BikeRockerPlate/assets/1283731/d890982a-86a4-4313-82d6-9d98738db657">
 
+The somewhat finished item. Looking to add some sensors next.
+
 ![IMG_1370](https://github.com/jastill/BikeRockerPlate/assets/1283731/a2cb6ed8-1ad0-4542-9d8f-af702f3515d8)
